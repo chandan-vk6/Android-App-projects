@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<citys>
+    <city>
+        <city_name>Mysore</city_name>
+        <latitude>12.453</latitude>
+        <langitude>76.737</langitude>
+        <Temperature>22</Temperature>
+        <Humidity>90%</Humidity>
+    </city>
+
+</citys>
